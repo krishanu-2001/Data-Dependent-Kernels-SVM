@@ -4,7 +4,7 @@ Experiments with data dependent kernels in support vector machines
 
 # Comparison of kernels
 ### laplacian kernel  
-Note. Laplacian kernel is different from laplacian svm (unsupervised)
+Note. Laplacian kernel is different from laplacian svm (unsupervised)  
 <img width="230" alt="image" src="https://user-images.githubusercontent.com/56930593/233768075-13510cd4-9b70-43a7-9fc2-05a7a30eaafb.png">
 
 ### isolation kernel  
@@ -13,7 +13,7 @@ Note. Laplacian kernel is different from laplacian svm (unsupervised)
       3. Similar accuracy as laplacian kernel for uniform data  
 <img width="230" alt="image" src="https://user-images.githubusercontent.com/56930593/233768163-766e79d8-bac5-4344-88f9-575d68894696.png">
 
-### linear kernel
+### linear kernel  
 <img width="230" alt="image" src="https://user-images.githubusercontent.com/56930593/233768183-7f2909af-1bfd-47f0-92a7-35660f27fa9d.png">
 
 
