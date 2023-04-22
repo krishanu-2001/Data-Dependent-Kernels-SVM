@@ -26,3 +26,4 @@ Note. Laplacian kernel is different from laplacian svm (unsupervised)
 * Cortes, David. "Distance approximation using Isolation Forests." arXiv preprint arXiv:1910.12362 (2019).
 * Cortes, David. "Revisiting randomized choices in isolation forests." arXiv preprint arXiv:2110.13402 (2021).
 * Cortes, David. "Isolation forests: looking beyond tree depth." arXiv preprint arXiv:2111.11639 (2021).
+* https://jakevdp.github.io/PythonDataScienceHandbook/05.07-support-vector-machines.html
